@@ -7,7 +7,7 @@ Este repositório é uma jornada pessoal de aprendizado em Flutter, documentando
 Cada projeto neste repositório é numerado para refletir a sequência do aprendizado. Abaixo, você encontrará uma lista dos projetos com uma breve explicação sobre cada um deles:
 
 ### 01 - First App
-Uma introdução ao Flutter, focando na configuração do ambiente de desenvolvimento e na criação de um primeiro aplicativo simples. Este projeto serve como a base para entender a estrutura de um projeto Flutter e como os widgets são usados para construir a interface do usuário.
+Este resumo oferece uma introdução ao Flutter, abordando a estrutura de diretórios criada ao iniciar um novo projeto e apresentando um exemplo de código inicial para exibir um "Hello World", facilitando os primeiros passos no desenvolvimento de aplicativos com Flutter.
 
 ## Objetivo
 
