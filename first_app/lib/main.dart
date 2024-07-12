@@ -1,16 +1,19 @@
-// Importa o pacote material design do Flutter.
+/*
+Importa o pacote Flutter Material Design, que fornece uma ampla gama de 
+widgets e ferramentas para construir interfaces de usuário.
+*/
 import 'package:flutter/material.dart';
 
-// Função principal que executa o aplicativo.
+// Função principal do aplicativo, ponto de entrada para execução do app.
 void main() {
-  // Executa o aplicativo com um widget MaterialApp.
+  // Executa o aplicativo Flutter, iniciando com o widget MaterialApp.
   runApp(const MaterialApp(
-    // Define o widget inicial do aplicativo.
+    // Define o widget inicial do aplicativo, neste caso, um Scaffold.
     home: Scaffold(
-      // Cria um layout básico com um corpo.
+      // Define o corpo do Scaffold, centralizando o widget filho.
       body: Center(
-        // Centraliza o widget filho.
-        child: Text('Hi Sarah!'), // Exibe um texto na tela.
+        // Cria um widget de texto com a mensagem 'Hi Sarah!'.
+        child: Text('Hello World!'), 
       ),
     ),
   ));
