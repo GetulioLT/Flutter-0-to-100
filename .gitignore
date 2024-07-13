@@ -25,3 +25,9 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# remove ios, linux and macos in all projects
+
+/*/ios
+/*/linux
+/*/macos

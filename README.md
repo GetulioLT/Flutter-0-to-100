@@ -2,6 +2,8 @@
 
 Este repositório é uma jornada pessoal de aprendizado em Flutter, documentando meu progresso do nível iniciante ao avançado. O objetivo é marcar cada etapa do aprendizado, com projetos que demonstram a evolução das habilidades adquiridas em Flutter, um framework incrível para o desenvolvimento de aplicativos móveis multiplataforma.
 
+ps.: O foco desse repositório será o flutter para androis, web e windows. Então, não terá nada relacionado ao flutter para IOS, linux e macos.
+
 ## Numeração dos Projetos
 
 Cada projeto neste repositório é numerado para refletir a sequência do aprendizado. Abaixo, você encontrará uma lista dos projetos com uma breve explicação sobre cada um deles:
