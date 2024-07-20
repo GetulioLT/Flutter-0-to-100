@@ -1,4 +1,4 @@
-# Projeto First_App com Flutter
+# Projeto Second_App com Flutter
 
 Este projeto tem como objetivo mostrar um dos tipos de widgets que são os com estados(ou com monitoramento de estados), para isso usaremos o StatefulWidget. no projeto foi criado um contador que ao clicar no botão ele incrementa o valor do contador.
 
