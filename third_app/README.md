@@ -18,13 +18,19 @@ A Row é um widget que organiza seus filhos em uma linha horizontal. Ela é usad
 
 A Column é um widget que organiza seus filhos em uma coluna vertical. Ela é usada para alinhar widgets verticalmente na tela e é útil para criar layouts de formulários, listas de itens e outros layouts verticais.
 
-## Entendentendo o que são ListViews
+## Entendentendo o que são ListViews e Navigator
 
-ListViews são widgets que são usados para exibir uma lista de itens na tela. Eles são usados para criar listas de itens roláveis e são essenciais para o desenvolvimento de aplicativos Flutter.
+ListViews e Navigator são widgets que são usados para criar layouts de lista e navegação em um aplicativo Flutter. Eles são essenciais para criar aplicativos que exibem grandes quantidades de dados e permitem que o usuário navegue entre diferentes telas.
 
 ### ListView
 
-O ListView é um widget que exibe uma lista de itens rolável na tela. Ele é usado para exibir listas de itens longas e é útil para criar listas de contatos, feeds de notícias e outros layouts de lista.
+O ListView é um widget que exibe uma lista de itens roláveis. Ele é usado para exibir grandes quantidades de dados de forma eficiente e é útil para criar layouts de lista, como listas de contatos, feeds de notícias e galerias de imagens.
+
+### Navigator
+
+O Navigator é um widget que gerencia a navegação entre diferentes telas em um aplicativo Flutter. Ele é usado para empilhar e desempilhar telas, permitindo que o usuário navegue entre diferentes partes do aplicativo de forma intuitiva e eficiente.
+
+ps.: a navegação não será abordada nesse projeto, mas sim em um projeto futuro.
 
 ## Conclusão
 
